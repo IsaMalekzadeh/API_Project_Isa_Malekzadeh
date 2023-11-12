@@ -1,7 +1,7 @@
 # API_Project_Isa_Malekzadeh
 
 ## Theme
-I chose for the theme drinks. This means you could add drinks with a descriprion of them and also the price and how many of those drinks are in stock.
+I chose for the theme drinks. This means you could add drinks with a description and for each drink you can add a price and how many of the drinks you have in stock.
 
 ## API Demonstration
 
