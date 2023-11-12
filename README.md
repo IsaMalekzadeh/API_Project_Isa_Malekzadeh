@@ -1,5 +1,8 @@
 # API_Project_Isa_Malekzadeh
 
+## Theme
+I chose for the theme drinks. This means you could add drinks with a descriprion of them and also the price and how many of those drinks are in stock.
+
 ## API Demonstration
 
 Here are some sample requests to my API with corresponding screenshots:
@@ -36,3 +39,34 @@ Here are some sample requests to my API with corresponding screenshots:
 ### GET /stock/ after deleting
 
 ![img_11.png](screenshots/img_11.png)
+
+## OpenAPI screenshots
+
+### POST /drinks/
+
+![img_12.png](screenshots/img_12.png)
+
+### POST /stock/{drink_id}
+
+![img_13.png](screenshots/img_13.png)
+![img_14.png](screenshots/img_14.png)
+
+### GET /drinks/
+
+![img_15.png](screenshots/img_15.png)
+
+### GET /stock/
+
+![img_16.png](screenshots/img_16.png)
+
+### DELETE /drinks/{drink_id}
+
+![img_17.png](screenshots/img_17.png)
+
+### GET /drinks/ after deleting
+
+![img_18.png](screenshots/img_18.png)
+
+### GET /stock/ after deleting
+
+![img_19.png](screenshots/img_19.png)
